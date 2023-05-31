@@ -1,8 +1,6 @@
 <!-- <h1 align="center"> Hey there 🙋‍♂️ My name is Yaraslau and I'm a full-stack developer with a never-ending thirst for knowledge and new challenges. </h1> -->
-<div align="center">
-  <h3>Hey there 🙋‍</h3>
-  <img src='https://i.postimg.cc/gJ4DDv34/Screenshot-10.png' border='0' alt='Screenshot-10'/></a><br />
-  <div align="center">
+### 📞 Contacts:
+<div>
   <a href="https://www.linkedin.com/in/yaraslau-baradaukin-90692223b/" > 
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
