@@ -28,17 +28,17 @@ What I find most exciting about being a full-stack developer is the ability to t
 
 ### :hammer_and_wrench: Tech skills and tools:
 <div>
-  <img src="./assets/icons/css-logo.png" title="CSS3" alt="CSS" width="40" height="40">
-  <img src="./assets/icons/html-logo.png" title="HTML5" alt="HTML" width="40" height="40">
-  <img src="./assets/icons/js-logo.png" title="JavaScript" alt="JS" width="40" height="40">
-  <img src="./assets/icons/ts-logo.png" title="TypeScript" alt="TS" width="40" height="40">
-  <img src="./assets/icons/angular-icon.png" title="angular" alt="angular" width="40" height="40">
-  <img src="./assets/icons/react-icon.png" title="react" alt="react" width="40" height="40">
-  <img src="./assets/icons/nodejs-icon.png" title="nodejs" alt="Node.js" width="40" height="40">
-  <img src="./assets/icons/NestJS-icon.png" title="NestJS" alt="NestJS" width="40" height="40">
-  <img src="./assets/icons/aws-logo.png" title="aws" alt="AWS" width="40" height="40">
-  <img src="./assets/icons/sql-logo.png" title="sql" alt="SQL" width="40" height="40">
-  <img src="./assets/icons/PHP-logo.svg.png" title="PHP8.1" alt="php" width="40" height="40">
+  <img src="./assets/icons/css-logo.png" title="CSS3" alt="CSS" width="40" height="50">
+  <img src="./assets/icons/html-logo.png" title="HTML5" alt="HTML" width="40" height="50">
+  <img src="./assets/icons/js-logo.png" title="JavaScript" alt="JS" width="50" height="50">
+  <img src="./assets/icons/ts-logo.png" title="TypeScript" alt="TS" width="50" height="50">
+  <img src="./assets/icons/angular-icon.png" title="angular" alt="angular" width="50" height="50">
+  <img src="./assets/icons/react-icon.png" title="react" alt="react" width="50" height="50">
+  <img src="./assets/icons/nodejs-icon.png" title="nodejs" alt="Node.js" width="50" height="50">
+  <img src="./assets/icons/NestJS-icon.png" title="NestJS" alt="NestJS" width="50" height="50">
+  <img src="./assets/icons/aws-logo.png" title="aws" alt="AWS" width="60" height="50">
+  <img src="./assets/icons/sql-logo.png" title="sql" alt="SQL" width="50" height="50">
+  <img src="./assets/icons/PHP-logo.svg.png" title="PHP8.1" alt="php" width="60" height="50">
 </div>
 
 ---
